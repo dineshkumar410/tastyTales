@@ -1,0 +1,22 @@
+{
+  "name": "tasty-tales",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Dinesh Kumar S",
+  "license": "ISC",
+  "description": "A back end web application to find recipes",
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1",
+    "mongoose": "^8.7.3"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
+}
