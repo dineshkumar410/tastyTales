@@ -37,14 +37,13 @@
 							"raw": "{\n  \"title\": \"Pizza\",\n  \"ingredients\": [\n    \"Pizza Dough\",\n    \"Sauce\",\n    \"Corn\",\n    \"50g chedder cheese\",\n    \"50g parmesan cheese\",\n    \"Black olives\",\n    \"Oregano\"\n  ],\n  \"instructions\": \"Add Cheese and sauce to the pizza crust (dough). Add all the vegetables (corn and olives). Add another layer of cheese. Cook in the pre heated oven. Add oregano to the cooked pizza and enjoy!!\"\n}\n"
 						},
 						"url": {
-							"raw": "127.0.0.1:3000/api/v1/recipes",
+							"raw": "https://tastytales-kgwz.onrender.com/api/v1/recipes",
+							"protocol": "https",
 							"host": [
-								"127",
-								"0",
-								"0",
-								"1"
+								"tastytales-kgwz",
+								"onrender",
+								"com"
 							],
-							"port": "3000",
 							"path": [
 								"api",
 								"v1",
@@ -303,14 +302,13 @@
 						"method": "GET",
 						"header": [],
 						"url": {
-							"raw": "127.0.0.1:3000/api/v1/recipes",
+							"raw": "https://tastytales-kgwz.onrender.com/api/v1/recipes",
+							"protocol": "https",
 							"host": [
-								"127",
-								"0",
-								"0",
-								"1"
+								"tastytales-kgwz",
+								"onrender",
+								"com"
 							],
-							"port": "3000",
 							"path": [
 								"api",
 								"v1",
@@ -473,14 +471,13 @@
 						"method": "GET",
 						"header": [],
 						"url": {
-							"raw": "127.0.0.1:3000/api/v1/recipes/67228a7314c118c24b315b58",
+							"raw": "https://tastytales-kgwz.onrender.com/api/v1/recipes/67228a7314c118c24b315b58",
+							"protocol": "https",
 							"host": [
-								"127",
-								"0",
-								"0",
-								"1"
+								"tastytales-kgwz",
+								"onrender",
+								"com"
 							],
-							"port": "3000",
 							"path": [
 								"api",
 								"v1",
@@ -657,14 +654,13 @@
 							"raw": "{\"ingredients\": [\n    \"Pizza Dough\",\n    \"Sauce\",\n    \"Corn\",\n    \"50g chedder cheese\",\n    \"50g parmesan cheese\",\n    \"BBQ Chicken\",\n    \"Black olives\",\n    \"Oregano\"\n  ]}"
 						},
 						"url": {
-							"raw": "127.0.0.1:3000/api/v1/recipes/67228a9914c118c24b315b5a",
+							"raw": "https://tastytales-kgwz.onrender.com/api/v1/recipes/67228a9914c118c24b315b5a",
+							"protocol": "https",
 							"host": [
-								"127",
-								"0",
-								"0",
-								"1"
+								"tastytales-kgwz",
+								"onrender",
+								"com"
 							],
-							"port": "3000",
 							"path": [
 								"api",
 								"v1",
@@ -1002,14 +998,13 @@
 							}
 						},
 						"url": {
-							"raw": "127.0.0.1:3000/api/v1/recipes/6722849cd8b56cb61df4e0c0",
+							"raw": "https://tastytales-kgwz.onrender.com/api/v1/recipes/6722849cd8b56cb61df4e0c0",
+							"protocol": "https",
 							"host": [
-								"127",
-								"0",
-								"0",
-								"1"
+								"tastytales-kgwz",
+								"onrender",
+								"com"
 							],
-							"port": "3000",
 							"path": [
 								"api",
 								"v1",
